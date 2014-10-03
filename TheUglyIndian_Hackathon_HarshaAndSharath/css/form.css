@@ -1,0 +1,33 @@
+ .spot-fix{
+    	margin: 20px;
+    }
+	/* Fix alignment issue of label on extra small devices in Bootstrap 3.2 */
+    .form-horizontal .control-label{
+        padding-top: 7px;
+    }
+
+/*
+#panel {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        margin-left: -180px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+      }
+*/
+
+#address{
+ width: 50%;  
+}
+
+#ui-datepicker-div{
+/* background-color:#34495e;*/
+    background-color:#BDC3C7;
+    border-radius: 10px;
+    padding:10px;
+    
+    
+}
